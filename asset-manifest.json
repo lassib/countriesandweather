@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/countriesandweather/static/js/main.96e81b4f.js",
+    "index.html": "/countriesandweather/index.html",
+    "main.96e81b4f.js.map": "/countriesandweather/static/js/main.96e81b4f.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.96e81b4f.js"
+  ]
+}
